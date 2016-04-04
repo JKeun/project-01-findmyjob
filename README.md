@@ -25,5 +25,5 @@ small project in data science school (남지열, 박재근, 신은지)
 ## Data & Samples
 * **input data** is string of job description(reponsibility&qualification)
 * **target** is {class0, class1, class2} -> {***'Data Science', 'Digital Marketing', 'UX/UI Deginger'***}
-* 
+
 ![linkedin](https://github.com/JKeun/project-01-findmyjob/blob/master/resource/linkedin3.PNG)
