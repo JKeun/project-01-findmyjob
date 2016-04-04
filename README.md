@@ -1,7 +1,5 @@
 # Find my job
-* small project in data science school (남지열, 박재근, 신은지)
----
-
+small project in data science school (남지열, 박재근, 신은지)
 ## Why?
 * 내가 하고 싶은 일은 무엇일까?
 * 내가 잘 할 수 있는 일은 무엇일까?
@@ -14,18 +12,15 @@
 * 데이터 수집
     * linkedin 웹사이트에서 키워드 ***'Data Scientist'***로 채용공고 검색 ***(y)***
     * 해당 공고에서 ***requirements & qualifications*** 크롤링 ***(X)***
-    
-    
+
 * 분석 방법
     * Supervised learning
         * **Naive Bayesian**
             * Multinomial Naive Bayes
-        * **$\hat{y} = \arg\max_y P(y) \prod_{i=1}^{n} P(x_i \mid y)$**
-___
+
 ## < Workflow >
-### 데이터수집 => 전처리 => 모델선택 => 계수추정 => 평가 => 개선작업 => 최종 성능평가
----
+* 데이터수집 => 전처리 => 모델선택 => 계수추정 => 평가 => 개선작업 => 최종 성능평가
+
 ## Data & Samples
 * **input data** is string of job description(reponsibility&qualification)
 * **target** is {class0, class1, class2} -> {***'Data Science', 'Digital Marketing', 'UX/UI Deginger'***}
----
