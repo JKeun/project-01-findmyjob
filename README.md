@@ -1,5 +1,6 @@
 # Find my job
 small project in data science school (남지열, 박재근, 신은지)
+![wordcloud](https://github.com/JKeun/project-01-findmyjob/blob/master/resource/wordcloud1.PNG)
 ## Why?
 * 내가 하고 싶은 일은 무엇일까?
 * 내가 잘 할 수 있는 일은 무엇일까?
@@ -24,3 +25,5 @@ small project in data science school (남지열, 박재근, 신은지)
 ## Data & Samples
 * **input data** is string of job description(reponsibility&qualification)
 * **target** is {class0, class1, class2} -> {***'Data Science', 'Digital Marketing', 'UX/UI Deginger'***}
+* 
+![linkedin](https://github.com/JKeun/project-01-findmyjob/blob/master/resource/linkedin3.PNG)
